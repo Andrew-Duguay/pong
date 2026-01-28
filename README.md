@@ -12,8 +12,8 @@ A high-performance, bare-metal implementation of Pong for the **STM32F446**. Thi
 
 ### 2. High-Performance Optimization
 **Power Efficiency:** Hard-coded to operate without the internal FPU (Floating Point Unit), demonstrating a "lean" embedded design capable of running on lower-power silicon.
-* * **Fixed-Point Arithmetic:** Replaced standard floating-point operations with fixed-point math for ball trajectory calculations, ensuring smooth motion while maintaining high CPU efficiency.
-* * **Trajectory Look-Up Tables (LUTs):** Drastically reduced trigonometric computation overhead by utilizing pre-computed LUTs for physics reflections.
+   * **Fixed-Point Arithmetic:** Replaced standard floating-point operations with fixed-point math for ball trajectory calculations, ensuring smooth motion while maintaining high CPU efficiency.
+   * **Trajectory Look-Up Tables (LUTs):** Drastically reduced trigonometric computation overhead by utilizing pre-computed LUTs for physics reflections.
 
 ### 3. Dynamic Gameplay Logic
 * **Procedural Difficulty:** Implements logic to scale ball velocity and paddle response based on current score and game duration.
@@ -25,7 +25,8 @@ A high-performance, bare-metal implementation of Pong for the **STM32F446**. Thi
 * **Microcontroller:** STM32F446RE (ARM Cortex-M4) or STM32F401CE (Black Pill)
 * **Display:** SSD1306 OLED (via I2C)
 * **Input:** Analog 2-axis Joystick (via ADC)
-* **Dependencies:** * [STM32 Peripheral Drivers](https://github.com/Andrew-Duguay/stm32drivers.git)
+* **Dependencies:**
+    * [STM32 Peripheral Drivers](https://github.com/Andrew-Duguay/stm32drivers.git)
     * [External Component Drivers](https://github.com/Andrew-Duguay/componentDrivers.git)
 
 ---
