@@ -1,0 +1,4 @@
+../my_stm32_drivers/Src/timer.c:6:6:timer_init	2
+../my_stm32_drivers/Src/timer.c:17:10:micros	1
+../my_stm32_drivers/Src/timer.c:22:10:millis	1
+../my_stm32_drivers/Src/timer.c:26:6:delay	2

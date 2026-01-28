@@ -1,0 +1,4 @@
+../my_stm32_drivers/Src/i2c.c:18:6:I2C1_init	4	static
+../my_stm32_drivers/Src/i2c.c:55:6:I2C1_read	24	static
+../my_stm32_drivers/Src/i2c.c:78:6:I2C1_burstRead	32	static
+../my_stm32_drivers/Src/i2c.c:114:6:I2C1_burstWrite	32	static

@@ -1,0 +1,16 @@
+../my_stm32_drivers/Src/graphics.c:5:6:drawLine	56	static
+../my_stm32_drivers/Src/graphics.c:28:6:eraseLine	56	static
+../my_stm32_drivers/Src/graphics.c:68:6:drawRect	32	static
+../my_stm32_drivers/Src/graphics.c:80:6:eraseRect	32	static
+../my_stm32_drivers/Src/graphics.c:91:6:fillRect	32	static
+../my_stm32_drivers/Src/graphics.c:99:6:clearRect	32	static
+../my_stm32_drivers/Src/graphics.c:108:6:drawCircle	48	static
+../my_stm32_drivers/Src/graphics.c:127:6:eraseCircle	48	static
+../my_stm32_drivers/Src/graphics.c:145:6:fillCircle	24	static
+../my_stm32_drivers/Src/graphics.c:149:6:drawTriangle	24	static
+../my_stm32_drivers/Src/graphics.c:155:6:eraseTriangle	24	static
+../my_stm32_drivers/Src/graphics.c:161:6:fillTriangle	24	static
+../my_stm32_drivers/Src/graphics.c:165:5:abs_int	16	static
+../my_stm32_drivers/Src/graphics.c:170:5:min	16	static
+../my_stm32_drivers/Src/graphics.c:175:5:max	16	static
+../my_stm32_drivers/Src/graphics.c:180:6:circleUtil	24	static

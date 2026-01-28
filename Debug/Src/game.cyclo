@@ -1,0 +1,15 @@
+C:/Users/andre/tools/STM32CubeIDE/workspace_getting_started/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+C:/Users/andre/tools/STM32CubeIDE/workspace_getting_started/chip_headers/CMSIS/Include/core_cm4.h:1722:22:__NVIC_DisableIRQ	2
+../Src/game.c:48:6:game_init	1
+../Src/game.c:61:6:game_start	1
+../Src/game.c:69:6:game_stop	1
+../Src/game.c:75:6:gameOver	1
+../Src/game.c:88:6:getScore	1
+../Src/game.c:98:5:check_for_pause	3
+../Src/game.c:118:5:is_game_running	1
+../Src/game.c:125:6:gameplay_interrupt_init	1
+../Src/game.c:135:6:TIM3_IRQHandler	4
+../Src/game.c:148:6:reset_paddle	1
+../Src/game.c:161:6:movePaddle	5
+../Src/game.c:181:6:reset_ball	1
+../Src/game.c:193:5:moveBall	10

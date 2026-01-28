@@ -1,0 +1,4 @@
+../Src/joystick.c:6:6:joystick_init	8	static
+../Src/joystick.c:11:6:pause_button_init	4	static
+../Src/joystick.c:19:5:readJoy	8	static
+../Src/joystick.c:24:5:button_pressed	16	static
